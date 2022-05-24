@@ -17,7 +17,7 @@
 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="20vw" /> I'm *learning* **Everything** 🤣
-- <img alt="GIF" src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="20vw"  /> You can **contact me** at [shubhamyadav32100@gmail.com](mailto:shubhamyadav32100@gmail.com)
+- <img alt="GIF" src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="18vw"  /> You can **contact me** at [shubhamyadav32100@gmail.com](mailto:shubhamyadav32100@gmail.com)
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m looking to collaborate on a startup project which is in the making....
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness*💡 lies in my *laziness*😴
 - 🧠  I'm learning Everything🤣
