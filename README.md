@@ -9,7 +9,7 @@
     I am a 4th year UnderGraduate from <a href="https://atria.edu/home.php"> <b>Atria Institute Technology</b>,Bengaluru</a> .  
     A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> . I can <b>quickly learn and master new technologies</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> .
     I am seeking for an opportunity to work in a challenging environment to prove my skills and utilize this <b>opportunity</b>
-     to work in a <b>challenging environment</b>,to prove my <b>skills</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> and <b>utilize</b> my knowledge <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> .
+     to work in a <b>challenging environment</b>, to prove my <b>skills</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> and <b>utilize</b> my knowledge <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> .
   </em>  
 </p>
 
@@ -20,10 +20,7 @@
 - <img alt="GIF" src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="18vw"  /> You can **contact me** at [shubhamyadav32100@gmail.com](mailto:shubhamyadav32100@gmail.com)
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m looking to collaborate on a startup project which is in the making....
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness*💡 lies in my *laziness*😴
-- 🧠  I'm learning Everything🤣
-<!-- - - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he)🧔 -->
-  
-<!-- ![Shubham](https://metrics.lecoq.io/ShubhamYv?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta) -->
+
   
 <hr>
 
@@ -54,12 +51,6 @@
   <a target="_blank" href="https://www.mysql.com/"><img src="https://icongr.am/devicon/mysql-original.svg?size=43&color=563d7c" title="MySQL"></a> 
   <a target="_blank" href="https://www.mongodb.com/"><img src="https://icongr.am/devicon/mongodb-original.svg?size=43&color=563d7c" title="MongoDB"></a>
 
-<!--  ![B](https://icongr.am/devicon/html5-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/css3-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/javascript-original.svg?size=55&color=563d7c)
-
-![B](https://icongr.am/devicon/git-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/react-original.svg?size=55&color=563d7c) ![B](https://icongr.am/octicons/mark-github.svg?size=55&color=949494)
-
- ![B](https://icongr.am/devicon/nodejs-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/python-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/mongodb-original.svg?size=55&color=563d7c) -->
-
 </div>
 
 <hr>
@@ -82,8 +73,6 @@
 </table>
   
   <a href="http://www.github.com/ShubhamYv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamYv&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-  
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamYv&theme=merko&layout=compact)](https://github.com/Shubhamyv/ShubhamYv.git) ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=ShubhamYv&theme=merko&show_icons=true&count_private=true) -->
 
 [![Shubham's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShubhamYv&theme=rogue)](https://github.com/ShubhamYv)
 
