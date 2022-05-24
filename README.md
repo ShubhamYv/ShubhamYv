@@ -33,16 +33,13 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@shubhamyv32100)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100004831158656)
 
-
-</div>
-
 <hr>
 
 <div align="center">
   <h1>Tech Skills :computer: </h1>
  
-<a target="_blank" href="https://www.python.org/"><img src="https://icongr.am/devicon/python-original.svg?size=43&color=563d7c" title="Python"></a>
-<a target="_blank" href="https://www.java.com/en/"><img src="https://icongr.am/devicon/java-original.svg?size=46&color=563d7c" title="Java"></a> 
+  <a target="_blank" href="https://www.python.org/"><img src="https://icongr.am/devicon/python-original.svg?size=43&color=563d7c" title="Python"></a>
+  <a target="_blank" href="https://www.java.com/en/"><img src="https://icongr.am/devicon/java-original.svg?size=46&color=563d7c" title="Java"></a> 
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://icongr.am/devicon/html5-original.svg?size=43&color=563d7c" title="HTML"></a> 
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://icongr.am/devicon/css3-original.svg?size=43&color=563d7c" title="CSS"></a> 
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://icongr.am/devicon/javascript-original.svg?size=43&color=563d7c" title="JavaScript"></a> 
@@ -72,8 +69,8 @@
   </tr>
 </table>
   
-  <a href="http://www.github.com/ShubhamYv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamYv&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="http://www.github.com/ShubhamYv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamYv&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
 
-[![Shubham's github activity graph](https://activity-graph.herokuapp.com/graph?username=ShubhamYv&theme=rogue)](https://github.com/ShubhamYv)
+<a href="http://www.github.com/ShubhamYv"><img src="https://activity-graph.herokuapp.com/graph?username=ShubhamYv&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Shubham's Commits Graph"/></a>
 
 </div>
