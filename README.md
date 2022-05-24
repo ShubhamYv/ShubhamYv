@@ -7,7 +7,7 @@
 <p>
   <em>
     I am a 4th year UnderGraduate from <a href="https://atria.edu/home.php"> <b>Atria Institute Technology</b>,Bengaluru</a> .  
-     A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> . I can <b>quickly learn and master new technologies</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> .
+    A budding <b>Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> . I can <b>quickly learn and master new technologies</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"> .
     I am seeking for an opportunity to work in a challenging environment to prove my skills and utilize this <b>opportunity</b>
      to work in a <b>challenging environment</b>,to prove my <b>skills</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> and <b>utilize</b> my knowledge <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> .
   </em>  
@@ -16,11 +16,14 @@
 <br>
 
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20vw" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="20vw" /> I'm *learning* **Everything** 🤣
+- <img alt="GIF" src= "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" width="20vw"  /> You can **contact me** at [shubhamyadav32100@gmail.com](mailto:shubhamyadav32100@gmail.com)
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m looking to collaborate on a startup project which is in the making....
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he)🧔
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness*💡 lies in my *laziness*😴
+- 🧠  I'm learning Everything🤣
+<!-- - - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" /> **Pronouns:** [*He/Him*](https://pronoun.is/he)🧔 -->
   
-![Shubham](https://metrics.lecoq.io/ShubhamYv?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
+<!-- ![Shubham](https://metrics.lecoq.io/ShubhamYv?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta) -->
   
 <hr>
 
@@ -40,8 +43,16 @@
 
 <div align="center">
   <h1>Tech Skills :computer: </h1>
-
-<a target="_blank" href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170"><img src="https://icongr.am/devicon/c-original.svg?size=46&color=563d7c" title="C"></a> <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://icongr.am/devicon/html5-original.svg?size=43&color=563d7c" title="HTML"></a> <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://icongr.am/devicon/css3-original.svg?size=43&color=563d7c" title="CSS"></a> <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://icongr.am/devicon/javascript-original.svg?size=43&color=563d7c" title="JavaScript"></a> <a target="_blank" href="https://git-scm.com/doc"><img src="https://icongr.am/devicon/git-original.svg?size=43&color=563d7c" title="Git"></a> <a target="_blank" href="https://reactjs.org/"><img src="https://icongr.am/devicon/react-original.svg?size=43&color=563d7c" title="React"></a> <a target="_blank" href="https://docs.github.com/en"><img src="https://icongr.am/octicons/mark-github.svg?size=43&color=949494" title="GitHub"></a> <a target="_blank" href="https://nodejs.org/en/"><img src="https://icongr.am/devicon/nodejs-original.svg?size=43&color=563d7c" title="Node.js"></a> <a target="_blank" href="https://www.python.org/"><img src="https://icongr.am/devicon/python-original.svg?size=43&color=563d7c" title="Python"></a> <a target="_blank" href="https://www.mongodb.com/"><img src="https://icongr.am/devicon/mongodb-original.svg?size=43&color=563d7c" title="MongoDB"></a> <a target="_blank" href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="43" width="43" title="Firebase" /></a> <a target="_blank" href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="43" width="43" title="Typescript" /></a>
+ 
+<a target="_blank" href="https://www.python.org/"><img src="https://icongr.am/devicon/python-original.svg?size=43&color=563d7c" title="Python"></a>
+<a target="_blank" href="https://www.java.com/en/"><img src="https://icongr.am/devicon/java-original.svg?size=46&color=563d7c" title="Java"></a> 
+  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://icongr.am/devicon/html5-original.svg?size=43&color=563d7c" title="HTML"></a> 
+  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://icongr.am/devicon/css3-original.svg?size=43&color=563d7c" title="CSS"></a> 
+  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://icongr.am/devicon/javascript-original.svg?size=43&color=563d7c" title="JavaScript"></a> 
+  <a target="_blank" href="https://git-scm.com/doc"><img src="https://icongr.am/devicon/git-original.svg?size=43&color=563d7c" title="Git"></a> 
+  <a target="_blank" href="https://docs.github.com/en"><img src="https://icongr.am/octicons/mark-github.svg?size=43&color=949494" title="GitHub"></a> 
+  <a target="_blank" href="https://www.mysql.com/"><img src="https://icongr.am/devicon/mysql-original.svg?size=43&color=563d7c" title="MySQL"></a> 
+  <a target="_blank" href="https://www.mongodb.com/"><img src="https://icongr.am/devicon/mongodb-original.svg?size=43&color=563d7c" title="MongoDB"></a>
 
 <!--  ![B](https://icongr.am/devicon/html5-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/css3-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/javascript-original.svg?size=55&color=563d7c)
 
