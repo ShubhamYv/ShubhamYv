@@ -21,7 +21,6 @@
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20vw" /> I’m looking to collaborate on a startup project which is in the making....
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" /> **Fun fact:** My *smartness*💡 lies in my *laziness*😴
 
-  
 <hr>
 
   <h1>Connect With Me❣️ </h1>
@@ -55,7 +54,8 @@
 <div align="center">
   <h1>GitHub Statistics :bar_chart: </h1>
 
-<img src="https://komarev.com/ghpvc/?username=ShubhamYv" alt="ShubhamYv" />
+<!-- <img src="https://komarev.com/ghpvc/?username=ShubhamYv" alt="ShubhamYv" /> -->
+   ![](https://komarev.com/ghpvc/?username=ShubhamYv&color=yellow&label=👁️‍+&nbsp;+Profile+Views) 
 <br><br>
 
 <table align="center" width="100%">
