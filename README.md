@@ -61,8 +61,8 @@
 <hr>
 <div align="center">
   <h1>GitHub Statistics :bar_chart: </h1>
-<!-- <img src="https://komarev.com/ghpvc/?username=ShubhamYv" alt="ShubhamYv" /> -->
-   ![](https://komarev.com/ghpvc/?username=ShubhamYv&color=yellow&label=👁️‍+&nbsp;+Profile+Views) 
+<img src="https://komarev.com/ghpvc/?username=ShubhamYv&color=yellow&label=👀+Profile+Views" alt="ShubhamYv" />
+  
 <br><br>
 <table align="center" width="100%">
   <tr>
