@@ -49,25 +49,21 @@
 
 </div>
 
-<hr> -->
-<div align="center">
-  <h1>GitHub Statistics :bar_chart: </h1>
-<img src="https://komarev.com/ghpvc/?username=ShubhamYv&color=yellow&label=👀+Profile+Views" alt="ShubhamYv" />
-  
-<br><br>
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamYv&theme=merko&layout=compact">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ShubhamYv&theme=merko&show_icons=true&count_private=true">
-    </td>
-  </tr>
-</table>
-  
-  <a href="http://www.github.com/ShubhamYv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamYv&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
+<hr>
 
+<div align="center">
+<a href="https://github.com/ShubhamYv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamYv&theme=dark&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/ShubhamYv">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamYv&show_icons=true&theme=dark&line_height=27" alt="Shubham's github stats"/>
+</a>
+
+<br><br>
+ <a href="http://www.github.com/ShubhamYv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamYv&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
+
+<br>
 <a href="http://www.github.com/ShubhamYv"><img src="https://activity-graph.herokuapp.com/graph?username=ShubhamYv&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Shubham's Commits Graph"/></a>
 
 </div>
