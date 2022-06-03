@@ -1,4 +1,4 @@
-# Shubham Kumar Yadav&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+ # Shubham Kumar Yadav&nbsp; <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> -->
 
 <h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> </h1>
 
@@ -49,15 +49,6 @@
 
 </div>
 
-<hr>
-
-<!-- ### Check me on 🔽
-<p align="left">
-     <a href="https://www.codechef.com/users/shubhamyv1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubhamyv1" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/shubhamyadav32100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhamyadav32100" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/shubhamyadav32100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shubhamyadav32100" height="30" width="40" /></a>
-</p>
-
 <hr> -->
 <div align="center">
   <h1>GitHub Statistics :bar_chart: </h1>
@@ -75,7 +66,7 @@
   </tr>
 </table>
   
-  <a href="http://www.github.com/ShubhamYv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamYv&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
+<!--   <a href="http://www.github.com/ShubhamYv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamYv&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a> -->
 
 <a href="http://www.github.com/ShubhamYv"><img src="https://activity-graph.herokuapp.com/graph?username=ShubhamYv&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Shubham's Commits Graph"/></a>
 
