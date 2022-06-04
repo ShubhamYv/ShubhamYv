@@ -55,8 +55,8 @@
 <br><br>
  
 <a href="https://github.com/ShubhamYv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamYv&theme=dark&hide_langs_below=1" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamYv&theme=dark&hide_langs_below=1"/>
+<>
 
 <a href="https://github.com/ShubhamYv">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamYv&show_icons=true&theme=dark&line_height=27" alt="Shubham's github stats"/>
