@@ -51,6 +51,8 @@
 <hr>
 
 <div align="center">
+ <img src="https://komarev.com/ghpvc/?username=ShubhamYv" alt="ShubhamYv" />
+<br><br>
  
 <a href="https://github.com/ShubhamYv">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamYv&theme=dark&hide_langs_below=1" />
