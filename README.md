@@ -1,6 +1,6 @@
- # Shubham Kumar Yadav&nbsp; <!--<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> -->
+ # Hola, I'm Shubham Kumar Yadav&nbsp;🙏
 
-<h1 align="center"> 👋 **Hello world!** 🌍 </h1>
+<h1 align="center"> 👋 Hello world! 🌍 </h1>
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
 <p>
