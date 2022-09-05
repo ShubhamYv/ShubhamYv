@@ -5,19 +5,19 @@
 
 <p>
   <em>
-    I am a 4th year UnderGraduate from <a href="https://atria.edu/home.php"> <b>Atria Institute Technology</b>,Bengaluru</a> .  
+    I am a 4th year UnderGraduate from <a href="https://atria.edu/home.php"> <b>Atria Institute Technology</b>, Bengaluru</a> .  
     A budding <b>Software Developer</b>🧑‍💻 . I can <b>quickly learn and master new technologies</b>&nbsp; .
     I am seeking for an opportunity to work in a challenging environment to prove my skills and utilize this <b>opportunity</b>
-     to work in a <b>challenging environment</b>, to prove my <b>skills</b>🚀 and <b>utilize</b> my knowledge🎖️ .
+    to work in a <b>challenging environment</b>, to prove my <b>skills</b>🚀 and <b>utilize</b> my knowledge🎖️ .
   </em>  
 </p>
 
 <br>
 
-- 👋 I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
+- 👋 I’m *currently* **SLEEPING** 😴 or *working* on my **LAPTOP** 👨‍💻
 - 📖 I'm *learning* **Everything** 🤣
 - 📧 You can **contact me** at [shubhamyadav32100@gmail.com](mailto:shubhamyadav32100@gmail.com)
-- 🤞 I’m looking to collaborate on a startup project which is in the making....
+- 🤞 I’m looking to collaborate on a startup project which is in the making...
 - 🪙 **Fun fact:** My *smartness*💡lies in my *laziness*😴
 
 <hr>
