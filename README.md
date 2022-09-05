@@ -40,8 +40,8 @@
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://icongr.am/devicon/html5-original.svg?size=43&color=563d7c" title="HTML"></a> 
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://icongr.am/devicon/css3-original.svg?size=43&color=563d7c" title="CSS"></a> 
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://icongr.am/devicon/javascript-original.svg?size=43&color=563d7c" title="JavaScript"></a> 
-  <a target="_blank" href="https://reactjs.org/docs/getting-started.html" title="ReactJs"></a>
-  <a target="_blank" href="https://docs.djangoproject.com/en/4.1/" title="Django"></a>
+  <a target="_blank" href="https://reactjs.org/docs/getting-started.html"><img src="https://icongr.am/devicon/react-original.svg?size=43&color=563d7c" title="ReactJs"></a>
+  <a target="_blank" href="https://docs.djangoproject.com/en/4.1/"><img src="https://icongr.am/devicon/django-original.svg?size=43&color=563d7c" title="Django"></a>
   <a target="_blank" href="https://git-scm.com/doc"><img src="https://icongr.am/devicon/git-original.svg?size=43&color=563d7c" title="Git"></a> 
   <a target="_blank" href="https://docs.github.com/en"><img src="https://icongr.am/octicons/mark-github.svg?size=43&color=949494" title="GitHub"></a> 
   <a target="_blank" href="https://www.mysql.com/"><img src="https://icongr.am/devicon/mysql-original.svg?size=43&color=563d7c" title="MySQL"></a> 
