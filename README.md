@@ -39,7 +39,7 @@
   <a target="_blank" href="https://www.java.com/en/"><img src="https://icongr.am/devicon/java-original.svg?size=46&color=563d7c" title="Java"></a> 
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://icongr.am/devicon/html5-original.svg?size=43&color=563d7c" title="HTML"></a> 
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://icongr.am/devicon/css3-original.svg?size=43&color=563d7c" title="CSS"></a> 
- <a target="_blank" href="https://sass-lang.com"><img src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" title="SASS"></a>
+ <a target="_blank" href="https://sass-lang.com"><img src="https://icongr.am/devicon/sass-original.svg?size=43&color=currentColor" title="SASS"></a>
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://icongr.am/devicon/javascript-original.svg?size=43&color=563d7c" title="JavaScript"></a> 
  
   <a target="_blank" href="https://www.mongodb.com/"><img src="https://icongr.am/devicon/mongodb-original.svg?size=43&color=563d7c" title="MongoDB"></a>
