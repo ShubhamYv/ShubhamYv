@@ -34,14 +34,14 @@
 
 <div align="center">
   <h1>Tech Skills :computer: </h1>
- 
-  <a target="_blank" href="https://www.python.org/"><img src="https://icongr.am/devicon/python-original.svg?size=43&color=563d7c" title="Python"></a>
+
   <a target="_blank" href="https://www.java.com/en/"><img src="https://icongr.am/devicon/java-original.svg?size=46&color=563d7c" title="Java"></a> 
+    <a target="_blank" href="https://www.python.org/"><img src="https://icongr.am/devicon/python-original.svg?size=43&color=563d7c" title="Python"></a>
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://icongr.am/devicon/html5-original.svg?size=43&color=563d7c" title="HTML"></a> 
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://icongr.am/devicon/css3-original.svg?size=43&color=563d7c" title="CSS"></a> 
  <a target="_blank" href="https://sass-lang.com"><img src="https://icongr.am/devicon/sass-original.svg?size=43&color=currentColor" title="SASS"></a>
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://icongr.am/devicon/javascript-original.svg?size=43&color=563d7c" title="JavaScript"></a> 
- 
+ <a target="_blank" href="https://spring.io/projects/spring-boot"><img src="https://img.icons8.com/?size=512&id=90519&format=png" width=48 title="SpringBoot"></a>
   <a target="_blank" href="https://www.mongodb.com/"><img src="https://icongr.am/devicon/mongodb-original.svg?size=43&color=563d7c" title="MongoDB"></a>
   <a target="_blank" href="https://nodejs.org/en/"><img src="https://icongr.am/devicon/nodejs-original.svg?size=43&color=563d7c" title="NodeJS"></a>
   <a target="_blank" href="https://reactjs.org/docs/getting-started.html"><img src="https://icongr.am/devicon/react-original.svg?size=43&color=563d7c" title="ReactJs"></a>
