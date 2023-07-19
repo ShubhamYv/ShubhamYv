@@ -43,7 +43,6 @@
   <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://icongr.am/devicon/javascript-original.svg?size=43&color=563d7c" title="JavaScript"></a> 
  <a target="_blank" href="https://spring.io/projects/spring-boot"><img src="https://img.icons8.com/?size=512&id=90519&format=png" width=48 title="SpringBoot"></a>
   <a target="_blank" href="https://www.mongodb.com/"><img src="https://icongr.am/devicon/mongodb-original.svg?size=43&color=563d7c" title="MongoDB"></a>
-  <a target="_blank" href="https://nodejs.org/en/"><img src="https://icongr.am/devicon/nodejs-original.svg?size=43&color=563d7c" title="NodeJS"></a>
   <a target="_blank" href="https://reactjs.org/docs/getting-started.html"><img src="https://icongr.am/devicon/react-original.svg?size=43&color=563d7c" title="ReactJs"></a>
  
   <a target="_blank" href="https://git-scm.com/doc"><img src="https://icongr.am/devicon/git-original.svg?size=43&color=563d7c" title="Git"></a> 
