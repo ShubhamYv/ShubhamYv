@@ -1,4 +1,4 @@
- # Hola, I'm Shubham Kumar Yadav&nbsp;🙏
+ # Hola, I'm SKY&nbsp;🙏
 
 <h1 align="center"> 👋 Hello world! 🌍 </h1>
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
