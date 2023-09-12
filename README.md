@@ -5,11 +5,11 @@
 
 <p>
   <em>
-    I am a 4th year UnderGraduate from <a href="https://atria.edu/home.php"> <b>Atria Institute Technology</b>, Bengaluru</a> .  
-    A budding <b>Software Developer</b>🧑‍💻 . I can <b>quickly learn and master new technologies</b>&nbsp; .
-    I am seeking for an opportunity to work in a challenging environment to prove my skills and utilize this <b>opportunity</b>
-    to work in a <b>challenging environment</b>, to prove my <b>skills</b>🚀 and <b>utilize</b> my knowledge🎖️ .
-  </em>  
+     I've completed my graduation from <a href="https://atria.edu/home.php"> <b>Atria Institute Technology</b>, Bengaluru</a>. 
+     I'm a dedicated <b>Java Developer</b> with a strong passion for coding and problem-solving. Proficient in crafting efficient
+     and reliable Java applications. Committed to continuous learning and staying updated with the latest industry trends. Excited
+     to contribute my expertise to create innovative solutions in the world of software development.
+  </em>
 </p>
 
 <br>
@@ -67,8 +67,5 @@
 
 <br><br>
  <a href="http://www.github.com/ShubhamYv"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamYv&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/></a>
-
-<br>
-<a href="http://www.github.com/ShubhamYv"><img src="https://activity-graph.herokuapp.com/graph?username=ShubhamYv&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Shubham's Commits Graph"/></a>
 
 </div>
