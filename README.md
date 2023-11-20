@@ -1,6 +1,4 @@
- # Hello World, I'm SKY&nbsp;🙏
-
-<h1 align="center"> 👋 Hello world! 🌍 </h1>
+<h1 align="center"> 👋 Hello world! I'm SKY🌍 </h1>
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
 <p>
