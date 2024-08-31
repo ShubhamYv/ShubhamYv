@@ -149,13 +149,13 @@
     </p>
     <!-- GitHub Stats and Trophies -->
     <p style="text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ShubhamYv&show_icons=true&locale=en" alt="ShubhamYv's GitHub Stats" style="margin: 10px; border: 2px solid #333; border-radius: 12px;"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=ShubhamYv&show_icons=true&locale=en&theme=dark" alt="ShubhamYv's GitHub Stats" style="margin: 10px; border: 2px solid #333; border-radius: 12px;"/>
     </p>
     <p style="text-align: center;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamYv" alt="ShubhamYv's Streak Stats" style="margin: 10px; border: 2px solid #333; border-radius: 12px;"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamYv&theme=dark" alt="ShubhamYv's Streak Stats" style="margin: 10px; border: 2px solid #333; border-radius: 12px;"/>
     </p>
     <p style="text-align: center;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamYv&show_icons=true&locale=en&layout=compact" alt="ShubhamYv's Top Languages" style="margin: 10px; border: 2px solid #333; border-radius: 12px;"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamYv&show_icons=true&locale=en&layout=compact&theme=dark" alt="ShubhamYv's Top Languages" style="margin: 10px; border: 2px solid #333; border-radius: 12px;"/>
     </p>
     <p style="text-align: center;">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
